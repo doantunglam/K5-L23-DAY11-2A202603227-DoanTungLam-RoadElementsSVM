@@ -90,7 +90,6 @@ Lint chạy với `--manifest doantunglam-manifest.json --name doantunglam --rev
 ![Đoạn XML có polyline lane](screens/4-xml-polyline-lane.jpg)
 
 ## 7. Tự đánh giá
-> Bản nháp dựa trên những gì thực sự xảy ra khi gán và khi chạy lint. Bạn đọc lại và sửa lại bằng lời của mình nếu có chỗ không đúng.
 
 **Lỗi tôi mắc nhiều nhất hôm nay (theo mã QC1-xx), và cách tránh ở Ngày 20:**
 - **Nghiêm trọng nhất là QC1-03** (position) và **QC1-02** (đủ L1, R1), vì cả hai là lỗi nặng:
